@@ -33,11 +33,11 @@ I am currently learning to code personal website or various applications with Re
 
 How to reach me: [egeckmk@gmail.com](mailto:egeckmk@gmail.com)
 
-## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+## 🔥 Languages & Frameworks 🔥
 
 ---
 
-## ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,js,react,redux,tailwind,bootstrap,firebase,vscode,md,materialui,jquery,nextjs,vue,mongodb,nodejs,py,electron,visualstudio,azure,netlify&theme=light)
+## ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,git,js,react,mongodb,nodejs&theme=light)
 
 ## ⚡ Stats ⚡
 
