@@ -9,15 +9,18 @@ const egeckmk = {
   workHistory: [
     {
       profession: "Software Developer",
-      company: "Pronovuma Bilişim ve Teknoloji A.Ş."
+      company: "Petrol Ofisi"
+      working: "2023 July - Present"
+      location: "Istanbul/TURKEY"
     },
     {
       profession: "Software Developer",
-      company: "Petrol Ofisi"
+      company: "Pronovuma Bilişim ve Teknoloji A.Ş."
+      working: "2021 Feb - 2022 Dec"
+      location: "Izmir/TURKEY"
     }
   ],
-  programmingLanguage: ["JavaScript", "c#", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Tech", "Formula 1"],
+  programmingLanguage: ["JavaScript", "C#", "HTML", "CSS"],
   technologies: {
     backend: {
       js: ["NodeJS"],
@@ -34,7 +37,7 @@ const egeckmk = {
   },
   architecture: ["Client Side Applications", "Single Page Aplications", "Server Side Applications"],
   currentFocus: "Currently the focus is on NodeJS backend API projects.",
+  askMeAbout: ["Web Dev", "Tech", "Formula 1", "Chess"],
   funFact: "Don't touch if it works"
 }
 ```
-
