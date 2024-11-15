@@ -9,14 +9,14 @@ const egeckmk = {
   workHistory: [
     {
       profession: "Software Developer",
-      company: "Petrol Ofisi"
-      working: "2023 July - Present"
+      company: "Petrol Ofisi",
+      working: "2023 July - Present",
       location: "Istanbul/TURKEY"
     },
     {
       profession: "Software Developer",
-      company: "Pronovuma Bilişim ve Teknoloji A.Ş."
-      working: "2021 Feb - 2022 Dec"
+      company: "Pronovuma Bilişim ve Teknoloji A.Ş.",
+      working: "2021 Feb - 2022 Dec",
       location: "Izmir/TURKEY"
     }
   ],
